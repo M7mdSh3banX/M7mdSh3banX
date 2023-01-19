@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/m7md_sh3banx" target="blank"><img src="https://img.shields.io/twitter/follow/m7md_sh3banx?logo=twitter&style=for-the-badge" alt="m7md_sh3banx" /></a> </p>
 
-- 🔭 I’m currently working on **Shape Detector**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Android with Kotlin**
 
