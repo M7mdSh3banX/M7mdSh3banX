@@ -35,4 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7mdsh3banx&show_icons=true&theme=transparent" alt="m7mdsh3banx" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=M7mdSh3banX1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
