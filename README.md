@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7mdsh3banx&show_icons=true&locale=en" alt="m7mdsh3banx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7mdsh3banx&" alt="m7mdsh3banx" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7mdsh3banx)](https://github.com/anuraghazra/github-readme-stats)
