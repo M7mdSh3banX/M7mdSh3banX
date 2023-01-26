@@ -33,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdSh3banX&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=M7mdSh3banX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M7mdSh3banX&theme=transparent&hide_border=false)<br/>
