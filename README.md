@@ -36,6 +36,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M7mdSh3banX&theme=transparent&hide_border=false)<br/>
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=M7mdSh3banX&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=M7mdSh3banX&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
