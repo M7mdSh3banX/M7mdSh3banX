@@ -35,5 +35,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M7mdSh3banX&theme=transparent&hide_border=false)<br/>
 
-<h3 align="left">GitHub Trophies:</h3>
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=M7mdSh3banX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=M7mdSh3banX&icon=0&color=0)](https://visitcount.itsvg.in)
