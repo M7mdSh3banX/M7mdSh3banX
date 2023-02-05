@@ -34,3 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdSh3banX&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M7mdSh3banX&theme=transparent&hide_border=false)<br/>
+
+<h3 align="left">GitHub Trophies:</h3>
+![](https://github-profile-trophy.vercel.app/?username=M7mdSh3banX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
