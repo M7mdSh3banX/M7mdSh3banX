@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Kotlin and Android**
 
-- 📫 How to reach me **ms2951@fayoum.edu.eg**
+- 📫 How to reach me **muhammad.shaban.ahmad1@gmail.com**
 
 - 📄 Look at my CV [**here**](https://drive.google.com/file/d/1AcdwQXusJ8wxpxa_P2lTuUyaQY_Cq7Z7/view?usp=drive_link)
 
