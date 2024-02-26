@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hello, I'm Mohamed Shaban <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hello, I'm Muhammad Shaban <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">Android Developer from Egypt 🌍</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2Zm8ybjI3eGFucHlvYjFsaGJsdWQweXAzN3NyazEyOWM0c2c2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif">
@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Mohamed Shaban's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M7mdSh3banX&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+    <img alt="Muhammad Shaban's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M7mdSh3banX&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7mdSh3banX&langs_count=10&show_icons=true&locale=en&theme=transparent&layout=compact" alt="Top 10 Languages" height="230px"/>
 </p>
