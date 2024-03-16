@@ -31,21 +31,21 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Muhammad Shaban's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M7mdSh3banX&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+    <img alt="Muhammad Shaban's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=M7MD43BAN&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7mdSh3banX&langs_count=10&show_icons=true&locale=en&theme=transparent&layout=compact" alt="Top 10 Languages" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M7MD43BAN&langs_count=10&show_icons=true&locale=en&theme=transparent&layout=compact" alt="Top 10 Languages" height="230px"/>
 </p>
 
 ## 🔥 GitHub Streak
 <p align="center">
     <a href="https://github.com/M7mdSh3banX">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=M7mdSh3banX&theme=transparent&hide_border=false" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=M7MD43BAN&theme=transparent&hide_border=false" alt="GitHub Streak" />
     </a>
 </p>
 
 ## GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=M7mdSh3banX&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=M7MD43BAN&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
 </p>
 
 ---
