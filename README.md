@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **muhammad.shaban.ahmad1@gmail.com**
 
-- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1tr0xI1UhZaJ2-6hUgqC7rSrcysVd2g57/view?usp=drive_link)
+- 📄 Look at my CV [**here**](https://drive.google.com/drive/folders/1Tm-QSvnkxBvYK3vzPE6PfhVLwxqiDFAa?usp=drive_link)
 
 <h3 align="left">My Accounts</h3>
 <p align="left">
